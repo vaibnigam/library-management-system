@@ -1,0 +1,95 @@
+B1,The Immortals of Meluha,Amish Tripathi,6
+B2,The Secret of the Nagas,Amish Tripathi,4
+B3,The Oath of the Vayuputras,Amish Tripathi,5
+B4,Sita: Warrior of Mithila,Amish Tripathi,3
+B5,Raavan: Enemy of Aryavarta,Amish Tripathi,3
+B6,Ramayana,Valmiki,8
+B7,Mahabharata,Ved Vyasa,8
+B8,The Mahabharata: A Modern Rendering,Ramesh Menon,4
+B9,Jaya: An Illustrated Retelling of the Mahabharata,Devdutt Pattanaik,5
+B10,Sita: An Illustrated Retelling of the Ramayana,Devdutt Pattanaik,5
+B11,Myth = Mythya,Devdutt Pattanaik,3
+B12,7 Secrets of Shiva,Devdutt Pattanaik,4
+B13,7 Secrets of Vishnu,Devdutt Pattanaik,4
+B14,7 Secrets of Goddess,Devdutt Pattanaik,3
+B15,The Palace of Illusions,Chitra Banerjee Divakaruni,6
+B16,Karna's Wife,Kavita Kane,3
+B17,Draupadi,Pratibha Ray,4
+B18,The Difficulty of Being Good,Gurcharan Das,2
+B19,Discovery of India,Jawaharlal Nehru,5
+B20,India After Gandhi,Ramachandra Guha,4
+B21,The Wonder That Was India,AL Basham,3
+B22,Freedom at Midnight,Larry Collins,5
+B23,The Discovery of India,Jawaharlal Nehru,3
+B24,Gandhi: The Story of My Experiments with Truth,Mahatma Gandhi,6
+B25,Wings of Fire,APJ Abdul Kalam,7
+B26,Ignited Minds,APJ Abdul Kalam,4
+B27,The Argumentative Indian,Amartya Sen,3
+B28,India: A History,John Keay,3
+B29,An Era of Darkness,Shashi Tharoor,4
+B30,Why I Am a Hindu,Shashi Tharoor,3
+B31,The Great Indian Novel,Shashi Tharoor,3
+B32,Indian Summer,Alex Von Tunzelmann,2
+B33,The Last Mughal,William Dalrymple,3
+B34,City of Djinns,William Dalrymple,3
+B35,White Mughals,William Dalrymple,2
+B36,Nine Lives,William Dalrymple,3
+B37,The Anarchy,William Dalrymple,4
+B38,Chanakya's Chant,Ashwin Sanghi,5
+B39,The Rozabal Line,Ashwin Sanghi,3
+B40,The Krishna Key,Ashwin Sanghi,4
+B41,Sacred Games,Vikram Chandra,3
+B42,A Suitable Boy,Vikram Seth,4
+B43,The God of Small Things,Arundhati Roy,5
+B44,Midnight's Children,Salman Rushdie,4
+B45,The White Tiger,Aravind Adiga,4
+B46,Train to Pakistan,Khushwant Singh,5
+B47,A Fine Balance,Rohinton Mistry,3
+B48,The Guide,RK Narayan,4
+B49,Malgudi Days,RK Narayan,5
+B50,Swami and Friends,RK Narayan,3
+B51,The Namesake,Jhumpa Lahiri,4
+B52,Interpreter of Maladies,Jhumpa Lahiri,3
+B53,Five Point Someone,Chetan Bhagat,6
+B54,2 States,Chetan Bhagat,5
+B55,The 3 Mistakes of My Life,Chetan Bhagat,4
+B56,Half Girlfriend,Chetan Bhagat,4
+B57,Revolution 2020,Chetan Bhagat,3
+B58,The Alchemist,Paulo Coelho,7
+B59,Sapiens: A Brief History of Humankind,Yuval Noah Harari,6
+B60,Homo Deus,Yuval Noah Harari,4
+B61,Guns Germs and Steel,Jared Diamond,4
+B62,A Brief History of Time,Stephen Hawking,5
+B63,The Odyssey,Homer,4
+B64,The Iliad,Homer,3
+B65,Greek Mythology: Gods and Heroes,Edith Hamilton,3
+B66,Norse Mythology,Neil Gaiman,4
+B67,American Gods,Neil Gaiman,3
+B68,The Egyptian Book of the Dead,Anonymous,2
+B69,Puranas: An Introduction,Anonymous,3
+B70,Upanishads,Anonymous,4
+B71,Bhagavad Gita,Ved Vyasa,8
+B72,The Bhagavad Gita: A New Translation,Stephen Mitchell,3
+B73,Autobiography of a Yogi,Paramahansa Yogananda,5
+B74,The Monk Who Sold His Ferrari,Robin Sharma,6
+B75,Who Will Cry When You Die,Robin Sharma,4
+B76,Think Like a Monk,Jay Shetty,5
+B77,Ikigai,Hector Garcia,6
+B78,Man's Search for Meaning,Viktor Frankl,5
+B79,The Power of Now,Eckhart Tolle,4
+B80,Atomic Habits,James Clear,7
+B81,The Subtle Art of Not Giving a Fck,Mark Manson,5
+B82,Rich Dad Poor Dad,Robert Kiyosaki,6
+B83,Think and Grow Rich,Napoleon Hill,4
+B84,The Psychology of Money,Morgan Housel,5
+B85,Zero to One,Peter Thiel,3
+B86,The Lean Startup,Eric Ries,4
+B87,Shoe Dog,Phil Knight,3
+B88,Steve Jobs,Walter Isaacson,4
+B89,Elon Musk,Walter Isaacson,5
+B90,Playing It My Way,Sachin Tendulkar,6
+B91,The Test of My Life,Yuvraj Singh,3
+B92,Unguarded,Rahul Dravid,2
+B93,Kane and Abel,Jeffrey Archer,4
+B94,The Kite Runner,Khaled Hosseini,5
+B95,A Thousand Splendid Suns,Khaled Hosseini,4
