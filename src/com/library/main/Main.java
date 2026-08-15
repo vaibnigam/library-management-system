@@ -14,7 +14,7 @@ public class Main {
 
 		// Program start hote hi sample data load karo
 		libraryService.loadBooksFromFile("data/books.txt");
-		
+
 		while (running) {
 			System.out.println("\n===== Library Management System =====");
 			System.out.println("1. Add Book");
@@ -43,8 +43,6 @@ public class Main {
 				int copies = scanner.nextInt();
 				scanner.nextLine();
 
-				libraryService.addBook(id, title, author, copies);
-				System.out.println("Book added successfully!");
 				break;
 
 			case 2:
