@@ -72,4 +72,21 @@ public class BookRepository {
 		}
 		return allBooks;
 	}
+
+	public Book[] findByAuthor(String searchAuthor) {
+		int matchCount = 0;
+		for (int i = 0; i < count; i++) {
+			if (books[i].getAuthor().toLowerCase().contains(searchAuthor.toLowerCase())) {
+				matchCount++;
+			}
+		}
+		Book[] result = new Book[matchCount];
+		int resultIndex = 0;
+		for (int i = 0; i < count; i++) {
+			if (books[i].getAuthor().toLowerCase().contains(searchAuthor.toLowerCase())) {
+				result[resultIndex++] = books[i];
+			}
+		}
+		return result;
+	}
 }

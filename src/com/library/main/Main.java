@@ -21,8 +21,9 @@ public class Main {
 			System.out.println("2. Search Book by Title");
 			System.out.println("3. Search Book by ID");
 			System.out.println("4. View All Books");
-			System.out.println("5. Remove Book");
-			System.out.println("6. Exit");
+			System.out.println("5. Search by Author");
+			System.out.println("6. Remove Book");
+			System.out.println("7. Exit");
 			System.out.print("Enter your choice: ");
 
 			int choice = scanner.nextInt();
@@ -42,7 +43,8 @@ public class Main {
 				System.out.print("Enter Copies: ");
 				int copies = scanner.nextInt();
 				scanner.nextLine();
-
+				libraryService.addBook(id, title, author, copies);
+				System.out.println("Book added successfully!");
 				break;
 
 			case 2:
@@ -70,13 +72,26 @@ public class Main {
 				break;
 
 			case 5:
+				System.out.print("Enter Author name : ");
+				String searchAuthor = scanner.nextLine();
+				Book[] authorBooks = libraryService.searchByAuthor(searchAuthor);
+				if (authorBooks.length == 0) {
+					System.out.println("No books found.");
+				} else {
+					for (Book b : authorBooks) {
+						System.out.println(b);
+					}
+				}
+				break;
+
+			case 6:
 				System.out.print("Enter Book ID to remove: ");
 				String removeId = scanner.nextLine();
 				boolean removed = libraryService.removeBook(removeId);
 				System.out.println(removed ? "Book removed successfully!" : "Book not found.");
 				break;
 
-			case 6:
+			case 7:
 				running = false;
 				System.out.println("Exiting... Goodbye!");
 				break;

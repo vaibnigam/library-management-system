@@ -84,4 +84,9 @@ public class LibraryService {
             System.out.println(b);
         }
     }
+
+	public Book[] searchByAuthor(String searchAuthor) {
+		return bookRepository.findByAuthor(searchAuthor);
+		
+	}
 }
