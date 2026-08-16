@@ -22,10 +22,11 @@ Main (Presentation) → LibraryService (Business Logic) → BookRepository (Data
 ## Features
 
 - Add a book (automatically merges copies if the ID already exists)
-- Search books by title or author (case-insensitive, partial match)
+- Search books by title (case-insensitive, partial match)
 - Search a book by ID (exact match)
-- Remove a book
 - View all books in the catalog
+- Search books by author (case-insensitive, partial match)
+- Remove a book
 - Bulk-load books from a `.txt` file at startup
 
 ## Project Structure
